@@ -2,7 +2,7 @@
 Arduino project
 
 ### Hardware used:
-WeMos D1 Mini(ESP8266), PMSA003. BME280
+WeMos D1 Mini(ESP8266), PMSA003, BME280
 
 ### Project description:
 Gather data from PMS and BME sensors and send them to opensensemap.org
